@@ -38,7 +38,7 @@ app.use(investRoute);
 app.use(userRoute);
 
 // module.exports = app; // Express 앱 내보내기 (서버 실행 X)
-// const host = "https://the-rich-coding-test1.herokuapp.com";
+const host = "calm-cod-hana0142-5eee172c.koyeb.app";
 const PORT = process.env.PORT || 4000; // 포트 설정
 
 // HTTP 서버 생성 및 실행
